@@ -1,0 +1,16 @@
+h2 {
+  color: black;
+  font-weight: bold;
+}
+
+a {
+  color: black;
+}
+
+.details {
+ 
+  margin-top: 10px;
+  border-style: groove;
+  padding: 10px;
+ 
+}

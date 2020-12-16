@@ -1,0 +1,18 @@
+h2 {
+  color: white;
+  font-size: 30px;
+
+  font-weight: bold;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+.courseInfo {
+  /* background-color: ;
+   */
+  background-image: linear-gradient(to bottom, black, white);
+  padding: 10px;
+}
